@@ -15,9 +15,8 @@ class Note
     document.body.push _just_one
 
 note = new Note
-note.add_exciting ("CEO Note", "Don't take it personal we are CEO's and we can adjust in every have that powers big package can get anyone practice something it will help.")
+note.add_exciting ("Note", "Try it first if not try it second at the end you get what you want")
  
-# Written on mobile version 338.0
 
 
    
